@@ -5,3 +5,7 @@ This is my readme
 ## Purpose
 
 Just a demo
+
+## Example 
+
+Updates from the example branch
