@@ -13,3 +13,8 @@ Updates from the example branch
 ## Awesome
 
 Cool stuff goes here
+
+
+## Changes for GUI
+
+Just stuff
